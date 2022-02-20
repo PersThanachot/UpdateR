@@ -4,7 +4,7 @@ version
 if(!require(installr)) #True = Don't Have , False = Have 
   {
     install.packages("installr"); #If True Dowload packages
-    library(installr) #If False use Libeary
+    library(installr) #If False use Library
   } 
 
 #Update Version R
